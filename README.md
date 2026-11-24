@@ -71,5 +71,3 @@ Python · pandas · scikit-learn · XGBoost · TensorFlow/Keras · SHAP · FastA
 ## Future work
 Redis state store · Kafka ingestion · Docker/Kubernetes · ADWIN concept-drift detection · MLflow + GitHub Actions retraining · live Power BI refresh from a database.
 
-## Authors
-Anuja Dhumal · Sneha Gangurde · Shraddha Jadhav, B.Tech CST, Usha Mittal Institute of Technology (SNDT Women's University), guide Dr. Sumedh Pundkar.
