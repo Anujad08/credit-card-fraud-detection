@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+artifacts/*
+!artifacts/.gitkeep
+logs/*
+!logs/.gitkeep
+powerbi/data/*
+!powerbi/data/.gitkeep
+.pytest_cache/
+.DS_Store
